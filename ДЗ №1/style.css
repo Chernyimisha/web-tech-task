@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: hsl(12, 57%, 43%);
+    font-family: 'Gill Sans', sans-serif;
+}
+a{
+    color: blueviolet;
+    font-size: 2rem;
+}
+a:hover{
+    color: brown;
+}
+ul{
+    list-style: square;
+    font-size: xx-large;
+}
+p{
+    color: blueviolet;
+    font-size: xx-large;
+}
+
+ol{
+    font-size: xx-large;
+}
