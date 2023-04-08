@@ -1,7 +1,6 @@
-function greeting (name)
-{
+function greeting (name) {
     alert(`Здравствуй, ${name}!`)
-}
+};
 
-const namePerson = prompt('Как Вас зовут?: ')
-greeting(namePerson)
+const namePerson = prompt('Как Вас зовут?: ');
+greeting(namePerson);
